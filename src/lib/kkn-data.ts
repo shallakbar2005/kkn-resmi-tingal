@@ -100,7 +100,7 @@ export const members: Member[] = [
     nim: "230208138",
     prodi: "Ilmu Komunikasi",
     role: "Ketua",
-    foto: "/public/download.jpeg",
+    foto: "/dokumentasi/public/download.jpeg",
   },
   {
     id: "2",
@@ -109,7 +109,7 @@ export const members: Member[] = [
     nim: "230313009",
     prodi: "Manajemen",
     role: "Sekretaris",
-    foto: "/public/download.jpeg",
+    foto: "/dokumentasi/public/download.jpeg",
   },
   {
     id: "3",
@@ -118,7 +118,7 @@ export const members: Member[] = [
     nim: "230312095",
     prodi: "Akutansi",
     role: "Bendahara",
-    foto: "/public/download.jpeg",
+    foto: "/dokumentasi/public/download.jpeg",
   },
   {
     id: "4",
@@ -127,7 +127,7 @@ export const members: Member[] = [
     nim: "230207122",
     prodi: "Psikologi",
     role: "Acara",
-    foto: "/public/download.jpeg",
+    foto: "/dokumentasi/public/download.jpeg",
   },
   {
     id: "5",
@@ -136,7 +136,7 @@ export const members: Member[] = [
     nim: "230312082",
     prodi: "Akutansi",
     role: "Acara",
-    foto: "/public/download.jpeg",
+    foto: "/dokumentasi/public/download.jpeg",
   },
   {
     id: "6",
@@ -145,7 +145,7 @@ export const members: Member[] = [
     nim: "230104047",
     prodi: "Teknologi Pangan",
     role: "Humas",
-    foto: "/public/download.jpeg",
+    foto: "/dokumentasi/public/download.jpeg",
   },
   {
     id: "7",
@@ -154,7 +154,7 @@ export const members: Member[] = [
     nim: "230417045",
     prodi: "KPI",
     role: "Humas",
-    foto: "/public/Robbi.jpeg",
+    foto: "/dokumentasi/public/Robbi.jpeg",
   },
   {
     id: "8",
@@ -163,7 +163,7 @@ export const members: Member[] = [
     nim: "230313116",
     prodi: "Manajemen",
     role: "Logistik",
-    foto: "/public/download.jpeg",
+    foto: "/dokumentasi/public/download.jpeg",
   },
   {
     id: "9",
@@ -172,7 +172,7 @@ export const members: Member[] = [
     nim: "240102014",
     prodi: "Teknik Informatika",
     role: "Logistik",
-    foto: "/public/download.jpeg",
+    foto: "/dokumentasi/public/download.jpeg",
   },
   {
     id: "10",
@@ -181,7 +181,7 @@ export const members: Member[] = [
     nim: "230102074",
     prodi: "Teknik Informatika",
     role: "PDD",
-    foto: "/public/download.jpeg",
+    foto: "/dokumentasi/public/download.jpeg",
   },
   {
     id: "11",
@@ -190,7 +190,7 @@ export const members: Member[] = [
     nim: "230106094",
     prodi: "Farmasi",
     role: "PDD",
-    foto: "/public/download.jpeg",
+    foto: "/dokumentasi/public/download.jpeg",
   },
   // ---------- KELOMPOK 2 ----------
   {
@@ -200,7 +200,7 @@ export const members: Member[] = [
     nim: "240103048",
     prodi: "Teknik Industri",
     role: "Ketua",
-    foto: "/public/yasin.jpeg",
+    foto: "/dokumentasi/public/yasin.jpeg",
   },
   {
     id: "13",
@@ -209,7 +209,7 @@ export const members: Member[] = [
     nim: "230313254",
     prodi: "Manajemen",
     role: "Sekretaris",
-    foto: "/public/cia.jpeg",
+    foto: "/dokumentasi/public/cia.jpeg",
   },
   {
     id: "14",
@@ -218,7 +218,7 @@ export const members: Member[] = [
     nim: "230312045",
     prodi: "Akutansi",
     role: "Bendahara",
-    foto: "/public/labib.jpeg",
+    foto: "/dokumentasi/public/labib.jpeg",
   },
   {
     id: "15",
@@ -227,7 +227,7 @@ export const members: Member[] = [
     nim: "230211112",
     prodi: "Administrasi Publik",
     role: "Acara",
-    foto: "/public/tiandra.jpeg",
+    foto: "/dokumentasi/public/tiandra.jpeg",
   },
   {
     id: "16",
@@ -236,7 +236,7 @@ export const members: Member[] = [
     nim: "230101007",
     prodi: "Teknik Elektro",
     role: "Acara",
-    foto: "/public/zikry.jpeg",
+    foto: "/dokumentasi/public/zikry.jpeg",
   },
   {
     id: "17",
@@ -245,7 +245,7 @@ export const members: Member[] = [
     nim: "230208080",
     prodi: "Ilmu Komunikasi",
     role: "Humas",
-    foto: "/public/aca.jpeg",
+    foto: "/dokumentasi/public/aca.jpeg",
   },
   {
     id: "18",
@@ -254,7 +254,7 @@ export const members: Member[] = [
     nim: "230207127",
     prodi: "Psikologi",
     role: "Humas",
-    foto: "/public/nazhira.jpeg",
+    foto: "/dokumentasi/public/nazhira.jpeg",
   },
   {
     id: "19",
@@ -263,7 +263,7 @@ export const members: Member[] = [
     nim: "230104002",
     prodi: "Teknologi Pangan",
     role: "Logistik",
-    foto: "/public/ano.jpeg",
+    foto: "/dokumentasi/public/ano.jpeg",
   },
   {
     id: "20",
@@ -272,7 +272,7 @@ export const members: Member[] = [
     nim: "230208008",
     prodi: "Ilmu Komunikasi",
     role: "PDD",
-    foto: "/public/cey.jpeg",
+    foto: "/dokumentasi/public/cey.jpeg",
   },
   {
     id: "21",
@@ -281,7 +281,7 @@ export const members: Member[] = [
     nim: "240102029",
     prodi: "Teknik Informatika",
     role: "PDD",
-    foto: "/public/farhan.jpeg",
+    foto: "/dokumentasi/public/farhan.jpeg",
   },
   {
     id: "22",
@@ -290,7 +290,7 @@ export const members: Member[] = [
     nim: "230106036",
     prodi: "Farmasi",
     role: "Konsumsi",
-    foto: "/public/dini.jpeg",
+    foto: "/dokumentasi/public/dini.jpeg",
   },
   // ---------- KELOMPOK 3 ----------
   {
@@ -300,7 +300,7 @@ export const members: Member[] = [
     nim: "230313165",
     prodi: "Manajemen",
     role: "Ketua",
-    foto: "/public/musa.jpg",
+    foto: "/dokumentasi/public/musa.jpg",
   },
   {
     id: "24",
@@ -309,7 +309,7 @@ export const members: Member[] = [
     nim: "230313281",
     prodi: "Manajemen",
     role: "Sekretaris",
-    foto: "/public/kira.jpg",
+    foto: "/dokumentasi/public/kira.jpg",
   },
   {
     id: "25",
@@ -318,7 +318,7 @@ export const members: Member[] = [
     nim: "230312015",
     prodi: "Akutansi",
     role: "Bendahara",
-    foto: "/public/eca.jpg",
+    foto: "/dokumentasi/public/eca.jpg",
   },
   {
     id: "26",
@@ -327,7 +327,7 @@ export const members: Member[] = [
     nim: "230312062",
     prodi: "Akutansi",
     role: "Acara",
-    foto: "/public/najar.jpg",
+    foto: "/dokumentasi/public/najar.jpg",
   },
   {
     id: "27",
@@ -336,7 +336,7 @@ export const members: Member[] = [
     nim: "230208169",
     prodi: "Ilmu Komunikasi",
     role: "Acara",
-    foto: "/public/kiya.jpg",
+    foto: "/dokumentasi/public/kiya.jpg",
   },
   {
     id: "28",
@@ -345,7 +345,7 @@ export const members: Member[] = [
     nim: "230207088",
     prodi: "Spikologi",
     role: "Acara",
-    foto: "/public/lidya.jpg",
+    foto: "/dokumentasi/public/lidya.jpg",
   },
   {
     id: "29",
@@ -354,7 +354,7 @@ export const members: Member[] = [
     nim: "230313269",
     prodi: "Manajemen",
     role: "Humas",
-    foto: "/public/sarah.jpg",
+    foto: "/dokumentasi/public/sarah.jpg",
   },
   {
     id: "30",
@@ -363,7 +363,7 @@ export const members: Member[] = [
     nim: "230211023",
     prodi: "Administrasi Publik",
     role: "Humas",
-    foto: "/public/jara.jpg",
+    foto: "/dokumentasi/public/jara.jpg",
   },
   {
     id: "31",
@@ -372,7 +372,7 @@ export const members: Member[] = [
     nim: "240102034",
     prodi: "Teknik Informatika",
     role: "PDD",
-    foto: "/public/firman.jpg",
+    foto: "/dokumentasi/public/firman.jpg",
   },
   {
     id: "32",
@@ -381,7 +381,7 @@ export const members: Member[] = [
     nim: "230106013",
     prodi: "Farmasi",
     role: "PDD",
-    foto: "/public/angel.jpg",
+    foto: "/dokumentasi/public/angel.jpg",
   },
   {
     id: "33",
@@ -390,7 +390,7 @@ export const members: Member[] = [
     nim: "240102052",
     prodi: "Teknik Informatika",
     role: "Logistik",
-    foto: "/public/Marshal.jpg",
+    foto: "/dokumentasi/public/Marshal.jpg",
   },
 ];
 
@@ -403,7 +403,7 @@ export const prokers: Proker[] = [
     deskripsi:
       "Mengedukasi siswa SD, guru,  di SDN Joglo 1 tentang pentingnya gizi seimbang dan PHBS.",
     status: "Terlaksana",
-    thumbnail: "/public/stunting.jpg",
+    thumbnail: "/dokumentasi/public/stunting.jpg",
   },
   {
     id: "p2",
@@ -412,7 +412,7 @@ export const prokers: Proker[] = [
     kategori: "Pendidikan",
     deskripsi: "Mengedukasi siswa SDN Joglo 1 untuk mencegah kenakalan usia dini.",
     status: "Terlaksana",
-    thumbnail: "/public/spikoedukasi.jpg",
+    thumbnail: "/dokumentasi/public/spikoedukasi.jpg",
   },
   {
     id: "p3",
@@ -422,7 +422,7 @@ export const prokers: Proker[] = [
     deskripsi:
       "Membuat tempat sampah untuk botol plastik & cup guna edukasi dan bisa diolah kembali.",
     status: "Terlaksana",
-    thumbnail: "/public/banksampah.jpg",
+    thumbnail: "/dokumentasi/public/banksampah.jpg",
   },
   {
     id: "p4",
@@ -431,7 +431,7 @@ export const prokers: Proker[] = [
     kategori: "Lingkungan",
     deskripsi: "Guna sebagai edukasi betapa pentingnya memilah sampah pada anak SD Resmi Tingal.",
     status: "Terlaksana",
-    thumbnail: "/public/botolplastik.jpeg",
+    thumbnail: "/dokumentasi/public/botolplastik.jpeg",
   },
   {
     id: "p5",
@@ -440,7 +440,7 @@ export const prokers: Proker[] = [
     kategori: "Ekonomi & Lingkungan",
     deskripsi: "Mengedukasi warga mengolah minyak jelantah menjadi produk bernilai jual .",
     status: "Terlaksana",
-    thumbnail: "/public/minyak.jpeg",
+    thumbnail: "/dokumentasi/public/minyak.jpeg",
   },
   {
     id: "p6",
@@ -449,7 +449,7 @@ export const prokers: Proker[] = [
     kategori: "Pendidikan",
     deskripsi: "Membangun semangat pada anak SMP 2 Kertasari agar tidak putus sekolah.",
     status: "Terlaksana",
-    thumbnail: "/public/ats23.jpeg",
+    thumbnail: "/dokumentasi/public/ats23.jpeg",
   },
   {
     id: "p7",
@@ -458,7 +458,7 @@ export const prokers: Proker[] = [
     kategori: "Infrastruktur",
     deskripsi: "Membuat peta tematik sebaran infrastruktur dan batas dusun desa resmi tingal.",
     status: "Terlaksana",
-    thumbnail: "/public/Pemetaan.jpeg",
+    thumbnail: "/dokumentasi/public/Pemetaan.jpeg",
   },
   {
     id: "p8",
@@ -468,7 +468,7 @@ export const prokers: Proker[] = [
     deskripsi:
       "Edukasi sampah anak SD Sukamaju agar lebih pintar dalam memilah & mengelola sampah.",
     status: "Terlaksana",
-    thumbnail: "/public/edukasisampahsd.jpeg",
+    thumbnail: "/dokumentasi/public/edukasisampahsd.jpeg",
   },
   {
     id: "p9",
@@ -477,7 +477,7 @@ export const prokers: Proker[] = [
     kategori: "Ekonomi",
     deskripsi: "Meningkatkan promosi dan penjualan produk UMKM Desa Resmi Tingal melalui spanduk.",
     status: "Terlaksana",
-    thumbnail: "/public/umkmpmdy.jpeg",
+    thumbnail: "/dokumentasi/public/umkmpmdy.jpeg",
   },
 ];
 
