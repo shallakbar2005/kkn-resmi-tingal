@@ -11,7 +11,7 @@ import fotoKentang from "@/assets/potensi-kentang.jpg";
 
 const u = (id: string, w = 600) => `https://images.unsplash.com/${id}?w=${w}&auto=format&fit=crop`;
 
-export const SITE_URL = "https://kkn-resmi-tingal.vercel.app";
+export const SITE_URL = "https://kkn-resmi-tingal-oxcy.vercel.app/";
 
 export const villageProfile = {
   namaDesa: "Desa Resmi Tingal",
