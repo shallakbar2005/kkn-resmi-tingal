@@ -300,7 +300,7 @@ export const members: Member[] = [
     nim: "230313165",
     prodi: "Manajemen",
     role: "Ketua",
-    foto: "/dokumentasi/musa.jpg",
+    foto: "/dokumentasi/musa.jpeg",
   },
   {
     id: "24",
@@ -309,7 +309,7 @@ export const members: Member[] = [
     nim: "230313281",
     prodi: "Manajemen",
     role: "Sekretaris",
-    foto: "/dokumentasi/kira.jpg",
+    foto: "/dokumentasi/kira.jpeg",
   },
   {
     id: "25",
@@ -318,7 +318,7 @@ export const members: Member[] = [
     nim: "230312015",
     prodi: "Akutansi",
     role: "Bendahara",
-    foto: "/dokumentasi/eca.jpg",
+    foto: "/dokumentasi/eca.jpeg",
   },
   {
     id: "26",
@@ -327,7 +327,7 @@ export const members: Member[] = [
     nim: "230312062",
     prodi: "Akutansi",
     role: "Acara",
-    foto: "/dokumentasi/najar.jpg",
+    foto: "/dokumentasi/najar.jpeg",
   },
   {
     id: "27",
@@ -336,7 +336,7 @@ export const members: Member[] = [
     nim: "230208169",
     prodi: "Ilmu Komunikasi",
     role: "Acara",
-    foto: "/dokumentasi/kiya.jpg",
+    foto: "/dokumentasi/kiya.jpeg",
   },
   {
     id: "28",
@@ -345,7 +345,7 @@ export const members: Member[] = [
     nim: "230207088",
     prodi: "Spikologi",
     role: "Acara",
-    foto: "/dokumentasi/lidya.jpg",
+    foto: "/dokumentasi/lidya.jpeg",
   },
   {
     id: "29",
@@ -354,7 +354,7 @@ export const members: Member[] = [
     nim: "230313269",
     prodi: "Manajemen",
     role: "Humas",
-    foto: "/dokumentasi/sarah.jpg",
+    foto: "/dokumentasi/sarah.jpeg",
   },
   {
     id: "30",
@@ -363,7 +363,7 @@ export const members: Member[] = [
     nim: "230211023",
     prodi: "Administrasi Publik",
     role: "Humas",
-    foto: "/dokumentasi/jara.jpg",
+    foto: "/dokumentasi/jara.jpeg",
   },
   {
     id: "31",
@@ -372,7 +372,7 @@ export const members: Member[] = [
     nim: "240102034",
     prodi: "Teknik Informatika",
     role: "PDD",
-    foto: "/dokumentasi/firman.jpg",
+    foto: "/dokumentasi/firman.jpeg",
   },
   {
     id: "32",
@@ -381,7 +381,7 @@ export const members: Member[] = [
     nim: "230106013",
     prodi: "Farmasi",
     role: "PDD",
-    foto: "/dokumentasi/angel.jpg",
+    foto: "/dokumentasi/angel.jpeg",
   },
   {
     id: "33",
@@ -390,7 +390,7 @@ export const members: Member[] = [
     nim: "240102052",
     prodi: "Teknik Informatika",
     role: "Logistik",
-    foto: "/dokumentasi/marshal.jpg",
+    foto: "/dokumentasi/marshal.jpeg",
   },
 ];
 
@@ -403,7 +403,7 @@ export const prokers: Proker[] = [
     deskripsi:
       "Mengedukasi siswa SD, guru,  di SDN Joglo 1 tentang pentingnya gizi seimbang dan PHBS.",
     status: "Terlaksana",
-    thumbnail: "/dokumentasi/stunting.jpg",
+    thumbnail: "/dokumentasi/stunting.jpeg",
   },
   {
     id: "p2",
@@ -412,7 +412,7 @@ export const prokers: Proker[] = [
     kategori: "Pendidikan",
     deskripsi: "Mengedukasi siswa SDN Joglo 1 untuk mencegah kenakalan usia dini.",
     status: "Terlaksana",
-    thumbnail: "/dokumentasi/spikoedukasi.jpg",
+    thumbnail: "/dokumentasi/spikoedukasi.jpeg",
   },
   {
     id: "p3",
@@ -422,7 +422,7 @@ export const prokers: Proker[] = [
     deskripsi:
       "Membuat tempat sampah untuk botol plastik & cup guna edukasi dan bisa diolah kembali.",
     status: "Terlaksana",
-    thumbnail: "/dokumentasi/banksampah.jpg",
+    thumbnail: "/dokumentasi/banksampah.jpeg",
   },
   {
     id: "p4",
