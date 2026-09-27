@@ -154,7 +154,7 @@ export const members: Member[] = [
     nim: "230417045",
     prodi: "KPI",
     role: "Humas",
-    foto: "/dokumentasi/public/Robbi.jpeg",
+    foto: "/dokumentasi/public/robbi.jpeg",
   },
   {
     id: "8",
@@ -390,7 +390,7 @@ export const members: Member[] = [
     nim: "240102052",
     prodi: "Teknik Informatika",
     role: "Logistik",
-    foto: "/dokumentasi/public/Marshal.jpg",
+    foto: "/dokumentasi/public/marshal.jpg",
   },
 ];
 
@@ -458,7 +458,7 @@ export const prokers: Proker[] = [
     kategori: "Infrastruktur",
     deskripsi: "Membuat peta tematik sebaran infrastruktur dan batas dusun desa resmi tingal.",
     status: "Terlaksana",
-    thumbnail: "/dokumentasi/public/Pemetaan.jpeg",
+    thumbnail: "/dokumentasi/public/pemetaan.jpeg",
   },
   {
     id: "p8",
