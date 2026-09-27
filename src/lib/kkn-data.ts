@@ -486,7 +486,7 @@ const dokIds = [
   ["/dokumentasi/ngaji.jpeg", "Lomba anak sholeh"],
   ["/dokumentasi/sisingaan.jpeg", "Mengikuti serta dalam sisingaan"],
   ["/dokumentasi/lomba17.jpeg", "Lomba 17 Agustusan"],
-  ["/dokumentasi/posyandu.jpg", "Kegiatan posyandu"],
+  ["/dokumentasi/posyandu.jpeg", "Kegiatan posyandu"],
   ["/dokumentasi/minyakj.jpeg", "Edukasi Mengolah minyak jalantah"],
   // lanjutkan sampai habis
 ];
